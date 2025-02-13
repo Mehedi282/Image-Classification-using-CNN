@@ -5,7 +5,8 @@
 This project implements a **Convolutional Neural Network (CNN)** using **TensorFlow** and **Keras** to classify images from the **CIFAR-10** dataset. The model is trained on CIFAR-10 and can predict the class of a given image uploaded by the user.
 
 
-[Open the Colab Project]([https://colab.research.google.com/your_notebook_link_here](https://colab.research.google.com/drive/19prG-O72Ukc49zjEYVmvfM39797IV1dV#scrollTo=2XiDbUACOSVV))
+[Open the Colab Project](https://colab.research.google.com/drive/19prG-O72Ukc49zjEYVmvfM39797IV1dV#scrollTo=2XiDbUACOSVV)
+
 
 ## Features
 
